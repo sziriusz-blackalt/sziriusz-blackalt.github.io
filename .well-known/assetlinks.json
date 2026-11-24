@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.offlineai.studio",
+        "sha256_cert_fingerprints": ["6B:D3:1E:17:4D:87:BC:64:06:50:A4:D9:70:48:C7:96:14:3C:F4:83:8B:AC:07:F3:8D:7E:EC:24:BD:4A:2C:33"]
+      }
+    }]
